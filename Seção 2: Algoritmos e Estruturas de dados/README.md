@@ -2,17 +2,25 @@
 
 Estruturas de dados servem para organizar os dados de um problema de modo que eles possam ser processados mais eficientemente.
 
-### Fila (= stack)
+### Pilha (= stack)
 
 São estruturas de dados do tipo LIFO (last-in first-out), onde:
 
 * O último elemento a ser inserido (push):
 
-![](https://github.com/Kianelc/curso-python/blob/master/Se%C3%A7%C3%A3o%202:%20Algoritmos%20e%20Estruturas%20de%20dados/images/fila_insert.png)
+![](https://github.com/Kianelc/curso-python/blob/master/Se%C3%A7%C3%A3o%202:%20Algoritmos%20e%20Estruturas%20de%20dados/images/pilha_insert.png)
 
 * Será o primeiro a ser retirado (pop):
 
-![](https://github.com/Kianelc/curso-python/blob/master/Se%C3%A7%C3%A3o%202:%20Algoritmos%20e%20Estruturas%20de%20dados/images/fila_remove.png)
+![](https://github.com/Kianelc/curso-python/blob/master/Se%C3%A7%C3%A3o%202:%20Algoritmos%20e%20Estruturas%20de%20dados/images/pilha_remove.png)
+
+### Fila (= Queue)
+
+São estruturas de dados do tipo FIFO (first-in first-out), onde:
+
+* O primeiro elemento a ser inserido, será o primeiro a ser retirado, ou seja, adiciona-se itens no fim e remove-se do início.
+
+![](https://github.com/Kianelc/curso-python/blob/master/Se%C3%A7%C3%A3o%202:%20Algoritmos%20e%20Estruturas%20de%20dados/images/fila.png)
 
 ### Vetores
 
