@@ -12,3 +12,7 @@ Math — Mathematical functions: [https://docs.python.org/3.4/library/math.html]
 Pytest - helps you write better programs [https://docs.pytest.org/en/latest/](https://docs.pytest.org/en/latest/)
 
 Bottle - Python Web Framework: [http://bottlepy.org/docs/dev/index.html](http://bottlepy.org/docs/dev/index.html)
+
+### Book
+
+* Book link used: [https://aprendacompy.readthedocs.io/pt/latest/](https://aprendacompy.readthedocs.io/pt/latest/)
