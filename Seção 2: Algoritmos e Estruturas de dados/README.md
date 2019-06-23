@@ -18,9 +18,21 @@ São estruturas de dados do tipo LIFO (last-in first-out), onde:
 
 São estruturas de dados do tipo FIFO (first-in first-out), onde:
 
-* O primeiro elemento a ser inserido, será o primeiro a ser retirado, ou seja, adiciona-se itens no fim e remove-se do início.
+* O primeiro elemento a ser inserido, será o primeiro a ser retirado, ou seja, adiciona-se itens no fim e remove-se do início:
 
 ![](https://github.com/Kianelc/curso-python/blob/master/Se%C3%A7%C3%A3o%202:%20Algoritmos%20e%20Estruturas%20de%20dados/images/fila.png)
+
+### Deque (= DoubleEndedQUEue)
+
+Um deque é uma especialização de uma fila, ou seja, é uma fila com duas saídas.
+
+* Inserções e exclusões de elementos podem ocorrer em qualquer extremidade da lista:
+
+![](https://github.com/Kianelc/curso-python/blob/master/Se%C3%A7%C3%A3o%202:%20Algoritmos%20e%20Estruturas%20de%20dados/images/deque.png)
+
+* Collections Deque:
+
+Link da documentação do deque: [https://docs.python.org/3/library/collections.html#collections.deque](https://docs.python.org/3/library/collections.html#collections.deque)
 
 ### Vetores
 
